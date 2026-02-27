@@ -17,7 +17,9 @@ body {
   cursor: pointer;
   animation: move 3s infinite linear;
 }
-
+.a {
+  font-size: 39px;
+}
 @keyframes move {
   0%   { top: 10%; left: 10%; }
   25%  { top: 70%; left: 20%; }
