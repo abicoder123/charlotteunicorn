@@ -10,6 +10,7 @@ body {
 }
 
 .unicornbtn {
+  background-color: transparent;
   position: absolute;
   font-size: 50px;
   cursor: pointer;
