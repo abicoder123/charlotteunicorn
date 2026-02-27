@@ -9,7 +9,7 @@ body {
   background-position: center;
 }
 
-.unicornbtn {
+#unicornbtn {
   font-size: 23px;
   background-color: transparent;
   position: absolute;
