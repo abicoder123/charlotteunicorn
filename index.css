@@ -8,7 +8,9 @@ body {
   background-size: cover;
   background-position: center;
 }
-
+.message {
+  background-color: #339C13;
+}
 #unicornbtn {
   font-size: 23px;
   background-color: transparent;
