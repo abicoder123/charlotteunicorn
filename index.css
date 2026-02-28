@@ -17,8 +17,21 @@ body {
   cursor: pointer;
   animation: move 4s linear infinite;
 }
+.a {
+  background-color: #38BA45;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 50px;
+  text-align: center;
+  z-index: 20;
+  color: white;
+  
 
+}
 #message {
+  background-color: #38BA45;
   position: absolute;
   top: 50%;
   left: 50%;
