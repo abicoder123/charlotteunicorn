@@ -17,6 +17,14 @@ body {
   animation: move 4s linear infinite;
 }
 
+#message {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}  
+  
+
 @keyframes move {
   0%   { top: 10%; left: 10%; }
   25%  { top: 70%; left: 20%; }
