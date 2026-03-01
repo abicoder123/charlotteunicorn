@@ -15,7 +15,7 @@ body {
   border: none;
   background: transparent;
   cursor: pointer;
-  animation: move 4s linear infinite;
+  animation: move 2.5s linear infinite;
 }
 .a {
   background-color: ##006400;
